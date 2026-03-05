@@ -1,0 +1,5 @@
+{
+  "name": "StudyFlow",
+  "description": "A student-focused companion to convert AI chat text into clean PDFs, generate flashcards, and chat with your study materials.",
+  "requestFramePermissions": []
+}
